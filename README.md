@@ -1,11 +1,11 @@
 # CODING - LABORATORIOS 1 a 5
 
-**Nome:** Giovani
-**Usuário GitHub:** @Giovani210
-**Turma:** CODING
-**Entrega:** Individual
+Giovani-
+@Giovani210
+Turma: CODING
+Entrega: Individual
 
-## Laboratórios
+Laboratórios
 - Laboratorio-01
 - Laboratorio-02
 - Laboratorio-03
